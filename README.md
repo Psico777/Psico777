@@ -88,38 +88,13 @@ Order Management with AI Vision. Product photos with handwritten prices (CNY) to
 </tr>
 </table>
 
----
-
-### What I've built
-
-**7+ interconnected projects** for an import/export business (Peru - China):
-
-```
- ERP Web App ---- ported from 12K-line WhatsApp bot
-      |
- 2 MCP Servers -- Canva + Runway automation for Claude Code
-      |
- AI Chat Bots --- 24/7 customer service on Raspberry Pi
-      |
- Product Site --- 22 products, 3 languages (ES/EN/ZH)
-      |
- Vision Pipeline - product photos -> structured data -> Excel
-```
-
-| Pattern | What it does |
-|---------|-------------|
-| Virtual API | MCP + Selenium = any web app becomes AI tools |
-| WhatsApp RAG | Multi-source knowledge (web, TikTok, PDF, audio) |
-| Human Behavior | Anti-detection for long-running automation bots |
-| Bot to Web App | Convert chat bots into full web applications |
-
----
-
 ### My pet
 
-<p align="center">
-  <img src="https://github.com/Psico777/Psico777/blob/output/github-snake-dark.svg" alt="snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Psico777/Psico777/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Psico777/Psico777/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Psico777/Psico777/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 ---
 
@@ -132,10 +107,6 @@ Order Management with AI Vision. Product photos with handwritten prices (CNY) to
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psico777&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Psico777&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
 </p>
 
 ---
