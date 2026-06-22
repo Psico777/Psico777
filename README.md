@@ -91,11 +91,7 @@ Sistema de pedidos con AI Vision. Fotos de productos con precios manuscritos (CN
 ### Mi mascota
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Psico777/Psico777/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Psico777/Psico777/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Psico777/Psico777/output/github-snake-dark.svg" width="95%" />
-</picture>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Psico777/Psico777/main/assets/snake-dark.svg" width="100%" />
 </p>
 
 ---
