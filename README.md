@@ -1,31 +1,31 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yordy%20Rojas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Systems%20Engineer%20%7C%20AI%20Automation%20Architect&descSize=18&descAlignY=52" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yordy%20Rojas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Ingeniero%20de%20Sistemas%20%7C%20Arquitecto%20de%20Automatizaci%C3%B3n%20IA&descSize=18&descAlignY=52" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Psico777"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6B4FBB&center=true&vCenter=true&repeat=true&width=600&height=40&lines=if+process.repeats()%3A+automate(process);if+ai.exists()%3A+integrate(ai);Building+AI+ecosystems+that+never+sleep" alt="Typing SVG" /></a>
+  <a href="https://github.com/Psico777"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6B4FBB&center=true&vCenter=true&repeat=true&width=620&height=40&lines=if+proceso.se_repite()%3A+automatizar(proceso);if+ia.existe()%3A+integrar(ia);Construyendo+ecosistemas+IA+que+nunca+duermen" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Psico777&label=Profile%20views&color=6B4FBB&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Psico777?style=for-the-badge&color=6B4FBB&labelColor=1a1b27" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Psico777&label=Visitas&color=6B4FBB&style=for-the-badge" alt="visitas" />
+  <img src="https://img.shields.io/github/followers/Psico777?style=for-the-badge&color=6B4FBB&labelColor=1a1b27&label=Seguidores" alt="seguidores" />
 </p>
 
 ---
 
-### What I do
+### Lo que hago
 
-I build **end-to-end AI automation ecosystems** for businesses. Not just scripts — complete interconnected systems that cover everything from content generation to 24/7 customer service.
+Construyo **ecosistemas completos de automatizacion con IA** para empresas. No solo scripts sueltos — sistemas interconectados que cubren desde generacion de contenido hasta atencion al cliente 24/7.
 
-- Custom **MCP Servers** — APIs where none exist via browser automation
-- **WhatsApp RAG Bots** — 24/7 AI customer service with persistent memory
-- **AI Vision pipelines** — Photos to structured data with Gemini
-- **Anti-detection bots** — Human behavior simulation for long-running automation
-- **Full-stack apps** — ERP, e-commerce, dashboards
+- **MCP Servers custom** — Creo APIs donde no existen via automatizacion de browser
+- **Bots WhatsApp con RAG** — Atencion al cliente 24/7 con memoria persistente
+- **Pipelines de AI Vision** — Fotos a datos estructurados con Gemini
+- **Bots anti-deteccion** — Simulacion de comportamiento humano para automatizacion
+- **Apps full-stack** — ERP, e-commerce, dashboards
 
 ---
 
-### Tech Stack
+### Stack Tecnologico
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,tailwind,flask,fastapi&theme=dark" />
@@ -43,7 +43,7 @@ I build **end-to-end AI automation ecosystems** for businesses. Not just scripts
 
 ---
 
-### Featured Projects
+### Proyectos Destacados
 
 <table align="center">
 <tr>
@@ -53,16 +53,16 @@ I build **end-to-end AI automation ecosystems** for businesses. Not just scripts
 
 <img src="https://img.shields.io/badge/Facebook_Bot-1877F2?style=flat-square&logo=facebook&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/24%2F7-green?style=flat-square" />
 
-Facebook Marketplace + Messenger AI bot. Automated product uploads, 24/7 customer service with Gemini. Runs headless on Raspberry Pi.
+Bot de Facebook Marketplace + Messenger con IA. Sube productos automaticamente, atencion al cliente 24/7 con Gemini. Corre headless en Raspberry Pi.
 
 </td>
 <td width="50%">
 
 **ComprobadorProxies**
 
-<img src="https://img.shields.io/badge/Async-purple?style=flat-square" /> <img src="https://img.shields.io/badge/30%2B_Sources-blue?style=flat-square" /> <img src="https://img.shields.io/badge/1200_Concurrent-red?style=flat-square" />
+<img src="https://img.shields.io/badge/Async-purple?style=flat-square" /> <img src="https://img.shields.io/badge/30%2B_Fuentes-blue?style=flat-square" /> <img src="https://img.shields.io/badge/1200_Conexiones-red?style=flat-square" />
 
-High-speed async proxy checker. Double verification, scoring 0-100, geolocation, export by protocol x quality.
+Verificador de proxies async de alta velocidad. Doble verificacion, scoring 0-100, geolocalizacion, export por protocolo x calidad.
 
 </td>
 </tr>
@@ -73,7 +73,7 @@ High-speed async proxy checker. Double verification, scoring 0-100, geolocation,
 
 <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite" /> <img src="https://img.shields.io/badge/Full_Stack-green?style=flat-square" />
 
-Complete e-commerce platform: catalog, cart, payments, vendor panel, admin dashboard, real-time chat.
+Plataforma e-commerce completa: catalogo, carrito, pagos, panel de vendedor, dashboard admin, chat en tiempo real.
 
 </td>
 <td width="50%">
@@ -82,31 +82,33 @@ Complete e-commerce platform: catalog, cart, payments, vendor panel, admin dashb
 
 <img src="https://img.shields.io/badge/Gemini_Vision-4285F4?style=flat-square&logo=google" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" />
 
-Order Management with AI Vision. Product photos with handwritten prices (CNY) to structured Excel.
+Sistema de pedidos con AI Vision. Fotos de productos con precios manuscritos (CNY) a Excel estructurado.
 
 </td>
 </tr>
 </table>
 
-### My pet
+### Mi mascota
 
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Psico777/Psico777/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Psico777/Psico777/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Psico777/Psico777/output/github-snake-dark.svg" width="100%" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Psico777/Psico777/output/github-snake-dark.svg" width="95%" />
 </picture>
+</p>
 
 ---
 
-### GitHub Stats
+### Estadisticas de GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Psico777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Psico777&theme=tokyonight&hide_border=true&background=1a1b27" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Psico777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27&locale=es" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Psico777&theme=tokyonight&hide_border=true&background=1a1b27&locale=es" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psico777&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psico777&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&locale=es" />
 </p>
 
 ---
@@ -116,5 +118,5 @@ Order Management with AI Vision. Product photos with handwritten prices (CNY) to
 </p>
 
 <p align="center">
-  <i>"To succeed you must take the first step and stay calm until you achieve it, and when you achieve it, teach others so they can achieve it too."</i>
+  <i>"Para llegar al exito debes dar el primer paso y mantenerte en calma hasta que lo logres, y cuando lo logres, ensenar a que los demas lo puedan lograr."</i>
 </p>
