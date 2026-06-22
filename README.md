@@ -49,6 +49,26 @@ Construyo **ecosistemas completos de automatizacion con IA** para empresas. No s
 <tr>
 <td width="50%">
 
+**[LK VISION](https://github.com/Psico777/lk-vision)** — OMS con IA
+
+<img src="https://img.shields.io/badge/Gemini_Vision-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" />
+
+Sistema de gestion de pedidos con AI Vision: convierte fotos de productos (precios manuscritos en CNY) en ordenes Excel/PDF. Calculadora de importacion, white-label y colaboracion en tiempo real.
+
+</td>
+<td width="50%">
+
+**[Proxy Checker Pro](https://github.com/Psico777/proxy-checker-pro)** — SaaS de proxies
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Async-purple?style=flat-square" /> <img src="https://img.shields.io/badge/API_Keys-orange?style=flat-square" /> <img src="https://img.shields.io/badge/30%2B_Fuentes-blue?style=flat-square" />
+
+Verificador de proxies async + app web completa. Scoring 0-100, baul SQLite, rotador en vivo y venta de acceso por API key con limites. Listo para monetizar.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 **MarketplaceAutomatizacion**
 
 <img src="https://img.shields.io/badge/Facebook_Bot-1877F2?style=flat-square&logo=facebook&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/24%2F7-green?style=flat-square" />
@@ -58,17 +78,6 @@ Bot de Facebook Marketplace + Messenger con IA. Sube productos automaticamente, 
 </td>
 <td width="50%">
 
-**ComprobadorProxies**
-
-<img src="https://img.shields.io/badge/Async-purple?style=flat-square" /> <img src="https://img.shields.io/badge/30%2B_Fuentes-blue?style=flat-square" /> <img src="https://img.shields.io/badge/1200_Conexiones-red?style=flat-square" />
-
-Verificador de proxies async de alta velocidad. Doble verificacion, scoring 0-100, geolocalizacion, export por protocolo x calidad.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 **LK E-Commerce**
 
 <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite" /> <img src="https://img.shields.io/badge/Full_Stack-green?style=flat-square" />
@@ -76,17 +85,20 @@ Verificador de proxies async de alta velocidad. Doble verificacion, scoring 0-10
 Plataforma e-commerce completa: catalogo, carrito, pagos, panel de vendedor, dashboard admin, chat en tiempo real.
 
 </td>
-<td width="50%">
-
-**EMFOX OMS** (paginadeexcel)
-
-<img src="https://img.shields.io/badge/Gemini_Vision-4285F4?style=flat-square&logo=google" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" />
-
-Sistema de pedidos con AI Vision. Fotos de productos con precios manuscritos (CNY) a Excel estructurado.
-
-</td>
 </tr>
 </table>
+
+---
+
+### Infraestructura & DevOps
+
+Despliego mis productos en **VPS Linux (DigitalOcean)** con Nginx, systemd, Docker y CI: APIs FastAPI tras reverse proxy, HTTPS automatico, y servidores de demo para clientes. Tambien orquesto automatizaciones con n8n y agentes IA conectados a Claude y Gemini.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=digitalocean,nginx,bash,cloudflare&theme=dark" />
+</p>
+
+---
 
 ### Mi mascota
 
