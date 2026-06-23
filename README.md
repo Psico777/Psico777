@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/github/followers/Psico777?style=for-the-badge&color=6B4FBB&labelColor=1a1b27&label=Seguidores" alt="seguidores" />
 </p>
 
+<p align="center">
+  <a href="https://eleka.me"><img src="https://img.shields.io/badge/🌐_Productos_en_vivo-eleka.me-00d4ff?style=for-the-badge" alt="portafolio" /></a>
+</p>
+
 ---
 
 ### Lo que hago
@@ -55,6 +59,8 @@ Construyo **ecosistemas completos de automatizacion con IA** para empresas. No s
 
 Sistema de gestion de pedidos con AI Vision: convierte fotos de productos (precios manuscritos en CNY) en ordenes Excel/PDF. Calculadora de importacion, white-label y colaboracion en tiempo real.
 
+**[🌐 Demo en vivo →](https://lkvision.eleka.me)**
+
 </td>
 <td width="50%">
 
@@ -63,6 +69,8 @@ Sistema de gestion de pedidos con AI Vision: convierte fotos de productos (preci
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Async-purple?style=flat-square" /> <img src="https://img.shields.io/badge/API_Keys-orange?style=flat-square" /> <img src="https://img.shields.io/badge/30%2B_Fuentes-blue?style=flat-square" />
 
 Verificador de proxies async + app web completa. Scoring 0-100, baul SQLite, rotador en vivo y venta de acceso por API key con limites. Listo para monetizar.
+
+**[🌐 Demo en vivo →](https://proxy.eleka.me)**
 
 </td>
 </tr>
@@ -128,3 +136,4 @@ Despliego mis productos en **VPS Linux (DigitalOcean)** con Nginx, systemd, Dock
 <p align="center">
   <i>"Para llegar al exito debes dar el primer paso y mantenerte en calma hasta que lo logres, y cuando lo logres, ensenar a que los demas lo puedan lograr."</i>
 </p>
+
