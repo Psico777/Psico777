@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Psico777/Psico777/main/assets/eleka-logo-gold.svg" alt="ELEKA" width="280" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yordy%20Rojas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Ingeniero%20de%20Sistemas%20%7C%20Arquitecto%20de%20Automatizaci%C3%B3n%20IA&descSize=18&descAlignY=52" width="100%" />
 </p>
 
